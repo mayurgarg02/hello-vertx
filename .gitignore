@@ -1,3 +1,8 @@
+target/
+*.iml
+.idea/
+.vertx/
+
 # Compiled class file
 *.class
 
